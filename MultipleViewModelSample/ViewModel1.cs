@@ -2,6 +2,6 @@
 {
     public class ViewModel1
     {
-		public string LabelText { get; set; } = "ViewModel 1";
+        public string LabelText { get; } = "ViewModel 1";
     }
 }

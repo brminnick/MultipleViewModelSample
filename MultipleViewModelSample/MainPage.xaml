@@ -9,13 +9,11 @@
         VerticalOptions="Center">
         
         <Label 
-            x:Name="ViewModel1Label" 
             BindingContext="{Binding Source ={local:ViewModel1 }}" 
             Text="{Binding LabelText}" 
             HorizontalOptions="Center" 
             HorizontalTextAlignment="Center" />
         <Label 
-            x:Name="ViewModel2Label" 
             BindingContext="{Binding Source ={local:ViewModel2 }}" 
             Text="{Binding LabelText}" 
             HorizontalOptions="Center" 
