@@ -3,8 +3,8 @@ using UIKit;
 
 namespace MultipleViewModelSample.iOS
 {
-	[Register(nameof(AppDelegate))]
-    public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
+    [Register(nameof(AppDelegate))]
+    public class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
     {
         public override bool FinishedLaunching(UIApplication uiApplication, NSDictionary launchOptions)
         {
