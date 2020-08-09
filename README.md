@@ -5,7 +5,7 @@ An iOS and Anrdoid app built using Xamarin.Forms demonstrating how to have multi
 ```csharp
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:x="https://schemas.microsoft.com:80/winfx/2009/xaml?WT.mc_id=multipleviewmodelsample-github-bramin" 
              xmlns:local="clr-namespace:MultipleViewModelSample" 
              x:Class="MultipleViewModelSample.MainPage">
     
