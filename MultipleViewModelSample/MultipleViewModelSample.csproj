@@ -5,7 +5,7 @@
         <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Xamarin.Forms" Version="4.8.0.1187-pre2" />
+        <PackageReference Include="Xamarin.Forms" Version="5.0.0.1539-pre2" />
     </ItemGroup>
     <ItemGroup>
         <EmbeddedResource Remove="App.xaml" />
