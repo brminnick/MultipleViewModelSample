@@ -12,7 +12,6 @@
         <RootNamespace>MultipleViewModelSample.iOS</RootNamespace>
         <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
         <AssemblyName>MultipleViewModelSample.iOS</AssemblyName>
-        <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
         <NuGetPackageImportStamp>
         </NuGetPackageImportStamp>
     </PropertyGroup>
